@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background: rgb(231, 61, 61);
+}
+
+.logo{
+    margin: 30px;
+    float: left;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+span{
+
+    background: black;
+    color: rgb(255, 255, 255);
+    padding: 8px;
+    border: 1px solid black;
+}
+
+.menu{
+    text-align: center;
+    display: flex;
+
+}
+
+li{
+    margin: 20px;
+    margin-top: 30px;
+    display: inline-block;
+    color: white;
+    font-size: large;
+}
+
+.login{
+    margin-top: 24px;
+    text-align: end;
+    margin-left: 770px;
+   
+}
+
+input{
+    border: 1px solid rgb(12, 12, 12);
+    padding: 9px;
+    background: rgb(20, 20, 20);
+    color: aliceblue;
+    width: 70px;
+}
+
+.wc{
+    margin-top: 130px;
+    text-align: center;
+}
+
+.htp{
+    margin-left: 130px;
+    display: flex;
+    margin-top: 40px;
+}
+
+.font-htp{
+    color: rgb(222, 44, 44);
+}
+
+.htp2{
+    margin-left: 130px;
+    display: flex;
+     margin-top: 100px;
+}
+
+.main-container{
+    border: 1px solid black;
+    padding-bottom: 220px;
+    background: black;
+    color: white;
+}
+
+.container2{
+    margin-left: 130px;
+    width: 470px;
+}
+
+.container3{
+    border: 1px solid black;
+    padding-bottom: 30px;
+    margin-left: 130px;
+    display: inline-flex;
+    margin-top: 75px;
+    width: 315px;
+}
+
+.online-games{
+    margin-top: 105px;
+    border: 1px solid black;
+    background: black;
+    padding-bottom: 100px;
+}
+
+.box{
+    margin-left: 130px;
+    margin-top: 20px;
+    display: inline-block;
+    border: 1px solid black;
+    width: 300px;
+    height: 200px;
+    color: white;
+}
+
+.sub{
+    text-align: center;
+    margin-top: 80px;
+    padding-bottom: 30px;
+}
+
+.inputs{
+    text-align: center;
+}
+
+.txt{
+    background: white;
+    width: 200px;
+    color: rgb(222, 44, 44);
+}
+
+.win{
+    margin-top: 50px;
+    margin-right: 150px;
+    text-align: end;
+    
+}
+
+.font-footer{
+    font-size: large;
+    color: rgb(222, 44, 44);
+}
+
+.online-games-footer{
+    margin-top: 105px;
+    border: 1px solid black;
+    background: black;
+    padding-bottom: 40px;
+}
+
+.signature{
+    text-align: end;
+    color: white;
+    margin-right: 20px;
+}
